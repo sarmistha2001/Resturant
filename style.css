@@ -1,0 +1,16 @@
+#hero{
+    width: 100%;
+    height: 100vh;
+    background: url("../Resturant/image/about-bg.jpg")top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+   padding: 0;
+
+}
+#text1{
+    color: peru;
+}
+li{
+    list-style: none;
+}
